@@ -1,0 +1,24 @@
+.box{
+    display: inline-block;
+    width: 10%;
+    padding: 15px;
+    border: 2px solid rosybrown;
+}
+.box1{
+    display: inline-block;
+    width: 10%;
+    padding: 15px;
+    float: right;
+    margin-top: 75px;
+    margin-left: 75px;
+    position: absolute;
+    border: 2px solid rosybrown;
+}
+.box2{
+    display: inline-block;
+    width: 10%;
+    padding: 15px;
+    margin-left: 20px;
+    float: right;
+    border: 2px solid rosybrown;
+}
